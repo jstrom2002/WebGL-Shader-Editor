@@ -5,4 +5,5 @@
 
 ## Compatibilty
 
-- Work on Chrome, Edge
+- Supported browsers: Chrome, Edge
+- Firefox support coming soon
